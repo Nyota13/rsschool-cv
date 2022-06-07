@@ -1,1 +1,1 @@
-# rsschool-cv
+https://nyota13.github.io/rsschool-cv/
