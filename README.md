@@ -1,1 +1,1 @@
-# https://github.com/Nyota13/rsschool-cv/blob/gh-pages/cv.md
+https://nyota13.github.io/rsschool-cv/
